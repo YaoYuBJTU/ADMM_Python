@@ -1,0 +1,227 @@
+C:\Users\wangguixia\anaconda3\python.exe "D:/【论文】ADMM-based problem decomposition scheme for the vehicle routing problem with time windows/ADMM_Python-master/SolomonDataset_v2/rc101-100/100-ADMM-for-solomonRc.py"
+Reading data......
+read input_node.csv
+the number of customers is 100
+the number of nodes is 102
+read input_link.csv
+the number of links is 10302
+the number of vehicles is 16
+===  ADMM iteration number = 0  ===
+Gap value = 100.0 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 1  ===
+Gap value = 98.88888888888889 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 2  ===
+Gap value = 97.77777777777777 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 3  ===
+Gap value = 96.66666666666667 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 4  ===
+Gap value = 95.55555555555556 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 5  ===
+Gap value = 94.44444444444444 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 6  ===
+Gap value = 93.33333333333333 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 7  ===
+Gap value = 92.22222222222223 %
+Global upper bound value = 9000.0
+===  ADMM iteration number = 8  ===
+Gap value = 91.02986690272668 %
+Global upper bound value = 8918.485281374238
+===  ADMM iteration number = 9  ===
+Gap value = 89.02105350226952 %
+Global upper bound value = 8191.173175581512
+===  ADMM iteration number = 10  ===
+Gap value = 85.86767845213618 %
+Global upper bound value = 7004.929436039206
+===  ADMM iteration number = 11  ===
+Gap value = 84.07576297592462 %
+Global upper bound value = 6662.950929014977
+===  ADMM iteration number = 12  ===
+Gap value = 81.51662790771987 %
+Global upper bound value = 6096.455867291148
+===  ADMM iteration number = 13  ===
+Gap value = 80.54524865628574 %
+Global upper bound value = 6080.207369359279
+===  ADMM iteration number = 14  ===
+Gap value = 74.52871978053855 %
+Global upper bound value = 4840.932012326279
+===  ADMM iteration number = 15  ===
+Gap value = 71.54644025712989 %
+Global upper bound value = 4469.53717415979
+===  ADMM iteration number = 16  ===
+Gap value = 70.77534467452008 %
+Global upper bound value = 4469.53717415979
+===  ADMM iteration number = 17  ===
+Gap value = 66.31395630837096 %
+Global upper bound value = 3986.173370698164
+===  ADMM iteration number = 18  ===
+Gap value = 62.01591424009628 %
+Global upper bound value = 3585.2305380903726
+===  ADMM iteration number = 19  ===
+Gap value = 61.456756701650626 %
+Global upper bound value = 3585.2305380903726
+===  ADMM iteration number = 20  ===
+Gap value = 60.32625067992184 %
+Global upper bound value = 3526.976939422919
+===  ADMM iteration number = 21  ===
+Gap value = 52.6080188911643 %
+Global upper bound value = 2982.821227826846
+===  ADMM iteration number = 22  ===
+Gap value = 51.97963196969123 %
+Global upper bound value = 2982.821227826846
+===  ADMM iteration number = 23  ===
+Gap value = 51.602099330725515 %
+Global upper bound value = 2982.821227826846
+===  ADMM iteration number = 24  ===
+Gap value = 51.25034840971626 %
+Global upper bound value = 2982.821227826846
+===  ADMM iteration number = 25  ===
+Gap value = 46.687610168804795 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 26  ===
+Gap value = 46.38319653512297 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 27  ===
+Gap value = 46.20473248015558 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 28  ===
+Gap value = 45.85978049504875 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 29  ===
+Gap value = 45.63536970801651 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 30  ===
+Gap value = 45.63536970801651 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 31  ===
+Gap value = 45.17054171226903 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 32  ===
+Gap value = 45.17054171226903 %
+Global upper bound value = 2756.9923627739845
+===  ADMM iteration number = 33  ===
+Gap value = 41.78739458445249 %
+Global upper bound value = 2596.7639942454084
+===  ADMM iteration number = 34  ===
+Gap value = 41.30997418534658 %
+Global upper bound value = 2596.7639942454084
+===  ADMM iteration number = 35  ===
+Gap value = 37.87849384832228 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 36  ===
+Gap value = 37.365417396213054 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 37  ===
+Gap value = 37.365417396213054 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 38  ===
+Gap value = 37.365417396213054 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 39  ===
+Gap value = 37.365417396213054 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 40  ===
+Gap value = 37.253647387977686 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 41  ===
+Gap value = 37.253647387977686 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 42  ===
+Gap value = 37.253647387977686 %
+Global upper bound value = 2453.3234188609504
+===  ADMM iteration number = 43  ===
+Gap value = 33.386862797261635 %
+Global upper bound value = 2318.2705590678715
+===  ADMM iteration number = 44  ===
+Gap value = 33.386862797261635 %
+Global upper bound value = 2318.2705590678715
+===  ADMM iteration number = 45  ===
+Gap value = 33.386862797261635 %
+Global upper bound value = 2318.2705590678715
+===  ADMM iteration number = 46  ===
+Gap value = 33.386862797261635 %
+Global upper bound value = 2318.2705590678715
+===  ADMM iteration number = 47  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 48  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 49  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 50  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 51  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 52  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 53  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 54  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 55  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 56  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 57  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 58  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 59  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 60  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 61  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 62  ===
+Gap value = 28.453322541831085 %
+Global upper bound value = 2162.6363170264585
+===  ADMM iteration number = 63  ===
+Gap value = 18.39458326651296 %
+Global upper bound value = 1896.0682908947226
+===  ADMM iteration number = 64  ===
+Gap value = 18.39458326651296 %
+Global upper bound value = 1896.0682908947226
+===  ADMM iteration number = 65  ===
+Gap value = 18.39458326651296 %
+Global upper bound value = 1896.0682908947226
+===  ADMM iteration number = 66  ===
+Gap value = 18.39458326651296 %
+Global upper bound value = 1896.0682908947226
+===  ADMM iteration number = 67  ===
+Gap value = 18.39458326651296 %
+Global upper bound value = 1896.0682908947226
+===  ADMM iteration number = 68  ===
+Gap value = 18.39458326651296 %
+Global upper bound value = 1896.0682908947226
+===  ADMM iteration number = 69  ===
+Gap value = 8.938877446642772 %
+Global upper bound value = 1699.1822491859873
+===  ADMM iteration number = 70  ===
+Gap value = 7.664925726822877 %
+Global upper bound value = 1675.7385452015876
+Gap threshold satisfied, terminates! Iteration number: 70
+Gap value = 7.664925726822877 %
+processing time of admm: 562.88 s
+The optimal objective value is: 1675.7385452015876
+
+Process finished with exit code 0
